@@ -1,5 +1,5 @@
 {
-    "description" : "A way to install ZeroClipboard via composer",
+    "description" : "Deprecated - Please check official version now avaliable (https://packagist.org/packages/zeroclipboard/zeroclipboard)",
     "name" : "rogeriopradoj/zero-clipboard",
     "license": "MIT"
 }
